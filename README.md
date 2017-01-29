@@ -1,7 +1,7 @@
 # YouTubeSearch
 
 ```
-	> git clone git@github.com:JamesAlbersheim/YouTubeSearch.git
+	> git clone https://github.com/jalbersh/YouTubeSearch.git
 	> cd YouTubeSearch
 	> npm install
 	> npm start
